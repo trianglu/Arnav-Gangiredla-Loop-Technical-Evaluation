@@ -74,4 +74,3 @@ All test cases follow the same pattern: login → navigate to project → verify
 - **Data-driven approach:** All test scenarios live in `testData.json`. Adding a new test case requires no code changes — just a new JSON entry.
 - **Single test template:** One parameterized `for` loop handles all 6 cases, minimizing code duplication.
 - **Flexible selectors:** Login and navigation selectors use fallback strategies to handle varying HTML attributes gracefully.# Arnav-Gangiredla-Loop-Technical-Evaluation
-# Arnav-Gangiredla-Loop-Technical-Evaluation
